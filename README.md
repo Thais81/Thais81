@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thais81
-- 👀 I’m interested in C/C++/Java/Javascript html and CSS
-- 🌱 I’m currently learning programming at LDRN school
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in C/C++/Java/Javascript/Php
+- 💞️ Here you'll find my school's projects and my crazy personal projects.
+- ✨ If you want to collaborate I'm always happy to learn, share and build
 - 📫 My LinkedIn is www.linkedin.com/in/thaïs-genin-291647271
 <!---
 Thais81/Thais81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
